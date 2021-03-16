@@ -1,0 +1,38 @@
+.contaner{
+    width: 960px;
+    margin: 0 auto;
+
+}
+.logosection{
+float: left;
+height: 50px;
+width: 50px;
+}
+.bannersection{
+    background-color:#D5C2B4 ;
+    width: 960px;
+    height: 350px;
+
+}
+.bannersection h2{
+    padding-bottom: 20px;
+    padding-left: 15px;
+}
+.protfoliosection{
+    width: 960px;
+    height: 350px;
+    background-color: #ffff;
+
+}
+.protfoliosection h2{
+    text-align: senter;
+
+}
+.buttonsection{
+
+}
+.price{
+    width: 960px;
+    height; 500px;
+    background-color: #D5C2B4;
+}
